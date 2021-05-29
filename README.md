@@ -6,6 +6,9 @@ Flutter Web - Firebase - Google Domains.
 FB hosting, for sample,
 https://forseasons.web.app
 
+default hosting public dir is public,
+changed to 'web' for flutter web.
+
 from,  
 https://github.com/larvalabs/flutterweb_github_dataviz.  
 BSD-3-Clause License
