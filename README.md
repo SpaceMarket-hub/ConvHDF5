@@ -7,7 +7,7 @@ FB hosting, for sample,
 https://forseasons.web.app
 
 default hosting public dir is public,
-changed to 'web' for flutter web.
+can changed to 'web' or 'lib with index.html' for own project.
 
 from,  
 https://github.com/larvalabs/flutterweb_github_dataviz.  
